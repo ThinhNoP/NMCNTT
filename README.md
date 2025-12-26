@@ -1,5 +1,3 @@
-
-```markdown
 # 🐍 Snake Game - AI Powered with Deep Q-Learning
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
@@ -368,3 +366,4 @@ Giảng viên hướng dẫn: **Thầy [Tên Giảng Viên]**.
 ```
 
 ```
+<img width="1884" height="822" alt="Giản đồ Grantt - Group Rắn Độc" src="https://github.com/user-attachments/assets/19b312e9-e4d5-4b89-b97d-9ca04284d6db" />
